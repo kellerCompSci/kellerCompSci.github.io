@@ -8,7 +8,7 @@ Other than showing my work, I pray that this portfolio inspires other who stunbk
 on my website to create their own website to show off their God given talents.
 
 ## How users can get started with the project
-You may view the website (here)[https://kellercompsci.github.io/].
+You may view the website [here](https://kellercompsci.github.io/).
 You can also clone this repo and view it on your local device.
 
 ## Where users can get help with your project
